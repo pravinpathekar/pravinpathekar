@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi 👋, I'm Pravin Pathekar
+
+### About me
+I am a frontend developer enthusiast with a focus on web fundamentals.
 
 <!--
 **pravinpathekar/pravinpathekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
